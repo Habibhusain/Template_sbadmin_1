@@ -8,7 +8,7 @@
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" id="userDropdown" href="#!" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fas fa-user fa-fw"></i></a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="userDropdown">
-                        <a class="dropdown-item" href="<?php echo BASE_URL;?>/login.php">Logout</a>
+                        <a class="dropdown-item" href="<?php echo BASE_URL;?>/index.php">Logout</a>
                     </div>
                 </li>
             </ul>
@@ -26,6 +26,10 @@
                             <a class="nav-link" href="<?php echo BASE_URL;?>/pages/users/users.php">
                                 <div class="sb-nav-link-icon"><i class="fas fa-user"></i></div>
                                 User
+                            </a>
+                            <a class="nav-link" href="<?php echo BASE_URL;?>/pages/ganti_password/ganti_password.php">
+                                <div class="sb-nav-link-icon"><i class="fas fa-lock"></i></div>
+                                Ganti Password
                             </a>
                         </div>
                     </div>
