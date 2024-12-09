@@ -50,9 +50,9 @@ include __DIR__."/../../inc/sidebar.php";
 
                       <!-- INPUT Select-->
                       <div class="form-group">
-                        <label>Level</label>
+                        <label>Level Pengguna</label>
                         <select class="custom-select" id="inputGroupSelect01" name="">
-                          <option selected>Pilih User</option>
+                          <option selected>Pilih Pengguna</option>
                           <option value="1">Pengguna</option>
                           <option value="2">Petugas</option>
                         </select>

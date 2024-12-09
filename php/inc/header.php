@@ -1,5 +1,5 @@
 <?php
-$base_url = "http://localhost/project/kumpulan%20template/template_sbadmin/php/";
+$base_url = "http://localhost/project/kumpulan_template/template_sbadmin/php/";
 define('BASE_URL', $base_url);
 ?>
 <!DOCTYPE html>
