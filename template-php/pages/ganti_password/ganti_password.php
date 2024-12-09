@@ -20,7 +20,6 @@ include __DIR__."/../../inc/sidebar.php";
 
                         <div class="card-footer">
                           <button type="submit" class="btn btn-info">Submit</button>
-                          <a href="kategori.php" class="btn btn-link float-right">Kembali</a>
                         </div>
                   </form>
             </div>
